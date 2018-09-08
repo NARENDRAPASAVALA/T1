@@ -1,0 +1,28 @@
+.parent{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.child1{
+	height: auto;
+	width: 25%;
+	margin: 2%;
+	padding: 2%;
+	/*border:1px solid #add;*/
+}
+
+img{
+	width:100%;
+	height:auto;
+}
+
+.child2{
+	width:65%;
+	justify-content: right;
+	margin: 2%;
+	padding: 2%;
+}
+
+p{
+	font-size:18px;
+}
